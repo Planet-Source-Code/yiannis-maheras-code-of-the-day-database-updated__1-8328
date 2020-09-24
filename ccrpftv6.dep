@@ -1,0 +1,15 @@
+[Version]
+Version=1.0.0.6
+
+[ccrpftv6.ocx <0009>]
+Dest=$(AppPath)
+Date=10/30/99
+Time=01:00
+Version=1.0.0.6
+CABFilename=
+Uses1=MSVBVM60.DLL
+Uses2=OLEAUT32.DLL
+Uses3=OLEPRO32.DLL
+Uses4=asycfilt.dll
+Uses5=STDOLE2.TLB
+Uses6=COMCAT.DLL
